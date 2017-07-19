@@ -1,8 +1,11 @@
- Á´½Ógit pull https://github.com/Thorntan/wordpress.git master
 
-{git remote add origin git@github.com:LittleTrue/HelloAndroid.git
+
+{git remote add origin git@github.com:LittleTrue/HelloAndroid.git  ²é¿´£ºgit remote -v
 
 git push -u origin master}
 
 plus:
 git pull origin master --allow-unrelated-histories
+
+
+ ssh -T git@github.com
